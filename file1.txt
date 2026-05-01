@@ -1,0 +1,4 @@
+Hello World
+This is a Git practice file.
+Git is easy to learn.
+I like version control.
